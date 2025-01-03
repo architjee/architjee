@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architjee&theme=gruvbox" alt="architjee" /></a> </p>
 
-- 🌱 I’m currently learning **API Development, NestJS, Scala, Akka**
+- 🌱 I’m currently learning **API Development, NestJS**
 
-- 💬 Ask me about **Vue, Tailwind**
+- 💬 Ask me about **Vue, Nuxt, TypeScript, Node.js, Tailwind**
 
 - 📫 How to reach me **architjee@gmail.com**
 
